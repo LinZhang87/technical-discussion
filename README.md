@@ -17,4 +17,4 @@ This is a good example of [my code](https://gist.github.com/LinZhang87/d5caa297f
 This is the [notebook](https://github.com/LinZhang87/technical-discussion/blob/main/technical_docs.ipynb)
 
 ### Image 
-[image](https://github.com/LinZhang87/technical-discussion/issues/1#issue-2033122712)
+![Screenshot 2023-12-08 at 11 26 49 AM](https://github.com/LinZhang87/technical-discussion/assets/19765005/b4109603-87ea-4459-a9f5-85e96d7929a9)
